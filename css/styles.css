@@ -8,7 +8,7 @@ h1 {
   text-align: center;
 }
 
-h2.intro, p.intro, img.intro {
+.intro {
   color: #3a70ad;
   margin: 0px 100px;
 }
